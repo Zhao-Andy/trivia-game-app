@@ -7,6 +7,5 @@ class TriviasController < ApplicationController
     else
       flash.now[:danger] = "You're sorely mistaken."
     end
-    binding.pry
   end
 end
