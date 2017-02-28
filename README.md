@@ -4,7 +4,7 @@ A really simple trivia game app made to help a student with his project.
 
 Runs on Rails 5.0.1 with PostgreSQL 9.5.3 (in case you cared).
 
-[Click here to see it on Heroku.](www.andy-trivia.herokuapp.com)
+[Click here to see it on Heroku.](https://www.andy-trivia.herokuapp.com)
 
 Or follow these steps to run it on `localhost`:
 
